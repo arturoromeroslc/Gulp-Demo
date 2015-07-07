@@ -16,9 +16,6 @@ A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 - Print the PDF.
 - Put it on the wall beside your pc :)
 
-
-
-
 ## Example codes
 
 ### Commands
@@ -33,6 +30,7 @@ A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 - run multi tasks:
 	```$ gulp task_name other_task```
 
+#TODO
 
 ### JavaScript: gulpfile.js
 
@@ -43,17 +41,6 @@ A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 - [Async Streams](examples/js/async-streams.js)
 - [Serial Join](examples/js/serial-join.js)
 - [Stream Array](examples/js/stream-array.js)
-
-### CoffeeScript: gulpfile.coffee
-
-- [Single Dest & Watch](examples/coffee/watch.coffee)
-- [Multi Dest](examples/coffee/multi-dest.coffee)
-- [Incremental Rebuilding](examples/coffee/incremental-rebuilding.coffee)
-- [Only Changed](examples/coffee/only-changed.coffee)
-- [Async Streams](examples/coffee/async-streams.coffee)
-- [Serial Join](examples/coffee/serial-join.coffee)
-- [Stream Array](examples/coffee/stream-array.coffee)
-
 
 ## See also
 
