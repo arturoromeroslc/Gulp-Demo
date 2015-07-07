@@ -6,10 +6,10 @@ Getting started with Gulpjs.  This repo is a playground for all things Gulpjs an
 
 A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 
-![en-js-p1](images/en-js-p1.png)
+[Cheat Sheet](https://github.com/osscafe/gulp-cheatsheet/blob/master/images/en-js-p1.png)
 
 ## Quick downloads
-[p1.pdf](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-js-p1.pdf) / [p2.pdf](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-js-p2.pdf)
+[p1.pdf](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-js-p1.pdf)
 
 ## Usage
 
@@ -17,14 +17,7 @@ A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 - Put it on the wall beside your pc :)
 
 
-## Editions
 
-|  | p.1 | p.2 |
-|----|:--:|:--:|
-| English /<br>JavaScript | [![en-js-p1](images/en-js-p1.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-js-p1.pdf) | [![en-js-p2](images/en-js-p2.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-js-p2.pdf) |
-| English /<br>CoffeeScript | [![en-coffee-p1](images/en-coffee-p1.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-coffee-p1.pdf) | [![en-coffee-p2](images/en-coffee-p2.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/en-coffee-p2.pdf) |
-| 日本語 /<br>JavaScript | [![ja-js-p1](images/ja-js-p1.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/ja-js-p1.pdf) | [![ja-js-p2](images/ja-js-p2.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/ja-js-p2.pdf) |
-| 简体中文 /<br>JavaScript | [![cn-js-p1](images/cn-js-p1.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/cn-js-p1.pdf) | [![cn-js-p2](images/cn-js-p2.png)](https://github.com/osscafe/gulp-cheetsheet/raw/master/dist/cn-js-p2.pdf) |
 
 ## Example codes
 
@@ -60,13 +53,6 @@ A cheatsheet for [gulp](https://github.com/gulpjs/gulp).
 - [Async Streams](examples/coffee/async-streams.coffee)
 - [Serial Join](examples/coffee/serial-join.coffee)
 - [Stream Array](examples/coffee/stream-array.coffee)
-
-
-## License
-
-- Made in [OpenSource Cafe](http://www.osscafe.net/en/)
-- By [Tsutomu Kawamura](https://github.com/cognitom)
-- [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ## See also
